@@ -29,6 +29,14 @@ Plotted Loss vs. Epoch curve
 Predicted student performance for a given input
 ## 5. Model Evaluation
 
+## 2.1 Comparison between regression library (sklearn) and numpy  
+
+| Library           | Mean Squared Error | Execution Time (seconds) |
+|------------------|------------------|----------------------|
+| Pandas and NumPy | 5.88             | 20.5                 |
+| sklearn          | 4.09             | 0.39                 |
+
+
 Evaluated using Mean Squared Error (MSE) and R² Score
 
 
