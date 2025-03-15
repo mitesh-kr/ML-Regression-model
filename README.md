@@ -1,4 +1,4 @@
-Student Performance Prediction
+**Student Performance Prediction**
 
 This repository contains the implementation and analysis of predicting student performance using a dataset that examines various influencing factors. The implementation includes two parts:
 
